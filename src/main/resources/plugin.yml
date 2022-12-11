@@ -1,0 +1,7 @@
+name: CapturePlugin
+version: '${project.version}'
+main: com.foxdev.captureplugin.CapturePlugin
+commands:
+  foxwand:
+    description: FoxWand
+    permission: pk.foxwand
